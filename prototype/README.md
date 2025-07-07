@@ -37,6 +37,3 @@ Matthew - 233405001
 ```
 
 ---
-
-**Author:**  
-Federico Matthew Pratama

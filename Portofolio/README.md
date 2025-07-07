@@ -1,38 +1,36 @@
-# 📁 Portofolio Projek
+# 🌟 Personal Portofolio
 
-Selamat datang di repositori **Portofolio**!  
-Repositori ini berisi kumpulan berbagai projek yang pernah saya buat, baik untuk pembelajaran maupun pengembangan diri.
+Selamat datang di repositori **Personal Portofolio**!  
+Repositori ini berisi portofolio pribadi saya yang dibuat menggunakan HTML, CSS, dan JavaScript.
 
-## ✨ Daftar Projek
+## 🖥️ Preview
 
-Berikut beberapa contoh projek yang dapat ditemukan pada repo ini:
+> Untuk melihat portofolio secara lokal, cukup buka file `index.html` di browser Anda.  
+> _(Jika tersedia versi live, tambahkan link di sini)_
 
-- **Implementasi Design Pattern (Prototype, dsb)**
-- **Aplikasi manajemen kontak sederhana berbasis terminal**
-- **Studi kasus dan tugas pemrograman lainnya**
+## 📦 Teknologi yang Digunakan
 
-Setiap projek biasanya memiliki folder tersendiri beserta kode sumber dan dokumentasi/README terkait.
-
-## 📂 Struktur Direktori
-
-- `prototype.py` — Contoh penggunaan Prototype Pattern di Python
-- `app.py`, `function.py` — Program manajemen kontak sederhana berbasis CLI
-- _(Folder/berkas lain sesuai projek)_
+- **HTML** — Struktur halaman web
+- **CSS** — Desain dan styling tampilan
+- **JavaScript** — Interaktivitas sederhana
 
 ## 🚀 Cara Menjalankan
 
-Setiap projek umumnya dapat dijalankan langsung menggunakan Python:
+1. **Clone repositori ini:**
+   ```bash
+   git clone https://github.com/MashuNakamura/Portofolio.git
+   cd Portofolio
+   ```
+2. **Buka file `index.html` di browser**
 
-```bash
-python <nama_file>.py
-```
+## 🗂️ Struktur Utama
 
-Atau ikuti instruksi yang ada pada README di tiap folder projek.
+- `index.html` — Halaman utama portofolio
+- `style.css` — File CSS utama untuk styling
+- `script.js` — (Opsional) JavaScript untuk interaksi
 
-## 📞 Kontak
+## 📄 Lisensi
 
-Untuk pertanyaan, saran, atau kolaborasi, silakan hubungi saya melalui [GitHub](https://github.com/MashuNakamura).
+Repositori ini bebas digunakan untuk tujuan pembelajaran atau referensi pribadi.
 
 ---
-
-Terima kasih telah berkunjung ke portofolio ini!

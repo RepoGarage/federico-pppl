@@ -1,38 +1,69 @@
 # 📁 Portofolio PPPL
 
 Selamat datang di repositori **Portofolio-PPPL**!  
-Repositori ini berisi kumpulan proyek dan tugas yang dikerjakan dalam mata kuliah **Prinsip Pengembangan Perangkat Lunak (PPPL)**.
+Repositori ini berisi kumpulan proyek, studi kasus, dan tugas yang dikerjakan selama perkuliahan **Prinsip Pengembangan Perangkat Lunak (PPPL)**.
 
-## ✨ Daftar Konten
+## 🛠️ Teknologi yang Digunakan
 
-Beberapa contoh proyek/tugas yang tersedia di repo ini:
+- **TypeScript** (utama)
+- **JavaScript**
+- **HTML**
+- **CSS**
 
-- **Implementasi Design Pattern (Prototype, Command, Observer, Strategy, dll)**
-- **Aplikasi Manajemen Kontak Sederhana**
+## ✨ Daftar Isi
+
+Di dalam repositori ini, Anda akan menemukan berbagai folder proyek dan file, di antaranya:
+
+- **Implementasi Design Pattern** (Prototype, Command, Observer, Strategy, dll)
+- **Aplikasi Manajemen Kontak**
 - **Studi Kasus dan Mini Project Lainnya**
 
-Setiap tugas atau projek biasanya berada di folder terpisah beserta kode sumber dan dokumentasi terkait.
-
-## 📂 Struktur Direktori (Contoh)
-
-- `prototype.py` — Implementasi Prototype Pattern
-- `app.py`, `function.py` — Program manajemen kontak berbasis CLI
-- _(Folder/berkas lain sesuai tugas dan projek yang ada)_
+Setiap tugas atau proyek biasanya berada di folder terpisah beserta kode sumber dan dokumentasinya (README).
 
 ## 🚀 Cara Menjalankan
 
-Untuk menjalankan suatu projek, biasanya cukup menggunakan Python:
+1. **Clone repositori ini:**
 
-```bash
-python <nama_file>.py
-```
+   ```bash
+   git clone https://github.com/MashuNakamura/Portofolio-PPPL.git
+   cd Portofolio-PPPL
+   ```
 
-Atau ikuti instruksi pada README di masing-masing folder projek.
+2. **Instal dependensi (jika ada):**
 
-## 📞 Kontak
+   ```bash
+   npm install
+   ```
 
-Jika ada pertanyaan, saran, atau ingin berdiskusi, silakan hubungi saya melalui [GitHub](https://github.com/MashuNakamura).
+   _(Abaikan langkah ini jika tidak ada package.json)_
+
+3. **Jalankan proyek sesuai petunjuk di masing-masing folder.**
+   Biasanya untuk file TypeScript:
+
+   ```bash
+   npx ts-node <nama_file>.ts
+   ```
+
+   atau compile terlebih dahulu:
+
+   ```bash
+   tsc <nama_file>.ts && node <nama_file>.js
+   ```
+
+   Untuk file JavaScript/HTML, bisa langsung dijalankan di Node.js atau browser.
+
+## 📂 Struktur Direktori (Contoh)
+
+- `src/` — Berisi kode sumber utama (TypeScript/JavaScript)
+- `design-pattern/` — Implementasi beberapa design pattern
+- `app/` — Aplikasi mini (misal: manajemen kontak)
+- _(Folder/berkas lain sesuai tugas dan projek yang ada)_
+
+## 📄 Lisensi
+
+Repositori ini bebas digunakan untuk belajar dan referensi pribadi.
 
 ---
 
-Terima kasih telah mengunjungi portofolio PPPL ini!
+Dibuat oleh [MashuNakamura](https://github.com/MashuNakamura)  
+Terima kasih telah berkunjung ke portofolio PPPL ini!
