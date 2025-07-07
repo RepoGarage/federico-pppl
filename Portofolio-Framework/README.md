@@ -1,71 +1,38 @@
-# PPPL - Framework Exploration Assignment
+# 📁 Portofolio PPPL
 
-## Federico Matthew Pratama - 233405001
+Selamat datang di repositori **Portofolio-PPPL**!  
+Repositori ini berisi kumpulan proyek dan tugas yang dikerjakan dalam mata kuliah **Prinsip Pengembangan Perangkat Lunak (PPPL)**.
 
-### Framework Name: Vite + React TypeScript
+## ✨ Daftar Konten
+
+Beberapa contoh proyek/tugas yang tersedia di repo ini:
+
+- **Implementasi Design Pattern (Prototype, Command, Observer, Strategy, dll)**
+- **Aplikasi Manajemen Kontak Sederhana**
+- **Studi Kasus dan Mini Project Lainnya**
+
+Setiap tugas atau projek biasanya berada di folder terpisah beserta kode sumber dan dokumentasi terkait.
+
+## 📂 Struktur Direktori (Contoh)
+
+- `prototype.py` — Implementasi Prototype Pattern
+- `app.py`, `function.py` — Program manajemen kontak berbasis CLI
+- _(Folder/berkas lain sesuai tugas dan projek yang ada)_
+
+## 🚀 Cara Menjalankan
+
+Untuk menjalankan suatu projek, biasanya cukup menggunakan Python:
+
+```bash
+python <nama_file>.py
+```
+
+Atau ikuti instruksi pada README di masing-masing folder projek.
+
+## 📞 Kontak
+
+Jika ada pertanyaan, saran, atau ingin berdiskusi, silakan hubungi saya melalui [GitHub](https://github.com/MashuNakamura).
 
 ---
 
-## Prerequisites
-
-Make sure you have the following installed on your system:
-
-- **Node.js** (version 18.0 or higher)
-- **npm** (version 8.0 or higher)
-
----
-
-## How to Install Node.js and npm
-
-1. Download the latest Node.js LTS installer from the official website:  
-   https://nodejs.org/en/download/
-
-2. Run the installer and follow the setup wizard.
-
-3. After installation, open Command Prompt and check the installed versions:
-
-```bash
-node -v
-npm -v
-```
-
----
-
-## Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/MashuNakamura/Portofolio-PPPL
-cd Portofolio-PPPL
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Start Development Server
-
-```bash
-npm run dev
-```
-
-The application will be available at `http://localhost:5173`
-
----
-
-## Note
-
-### Route Available at :
-
-- Home Page or `http://localhost:5173/home`
-- About Page or `http://localhost:5173/about`
-
-## Learning Resources
-
-- [Vite Documentation](https://vitejs.dev/)
-- [React Documentation](https://react.dev/)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+Terima kasih telah mengunjungi portofolio PPPL ini!
